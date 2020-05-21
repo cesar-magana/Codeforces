@@ -1,4 +1,4 @@
-A. Bit++
+# A. Bit++
 
 time limit per test
 

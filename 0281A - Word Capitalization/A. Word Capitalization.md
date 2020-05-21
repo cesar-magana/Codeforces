@@ -1,4 +1,4 @@
-A. Word Capitalization
+# A. Word Capitalization
 
 time limit per test
 

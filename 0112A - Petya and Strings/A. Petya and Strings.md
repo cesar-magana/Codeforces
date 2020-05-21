@@ -1,4 +1,4 @@
-A. Petya and Strings
+# A. Petya and Strings
 
 time limit per test
 

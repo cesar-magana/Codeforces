@@ -1,4 +1,4 @@
-A. Domino piling
+# A. Domino piling
 
 time limit per test
 

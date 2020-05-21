@@ -1,4 +1,4 @@
-A. Helpful Maths
+# A. Helpful Maths
 
 time limit per test
 

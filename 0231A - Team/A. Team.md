@@ -1,4 +1,4 @@
-A. Team
+# A. Team
 
 time limit per test
 
